@@ -219,7 +219,8 @@ python genai-engine/main.py
 
 ## 👨‍💻 Author
 Harish Kumar V
-AIML | IEEE CIS | Engineering Innovation Enthusiast
+
+AIML Engineering Innovation Enthusiast
 
 ---
 

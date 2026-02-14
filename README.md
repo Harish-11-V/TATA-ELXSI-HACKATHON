@@ -13,6 +13,7 @@ GenAI-powered Service-Oriented Architecture generator for automotive systems, co
 ![SoA](https://img.shields.io/badge/Architecture-Service%20Oriented-orange)
 ![Compliance](https://img.shields.io/badge/MISRA-ASPICE-red)
 ![Status](https://img.shields.io/badge/Status-Initial%20Setup-yellow)
+
 </p>
 
 ---

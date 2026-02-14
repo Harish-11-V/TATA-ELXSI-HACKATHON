@@ -7,13 +7,11 @@ GenAI-powered Service-Oriented Architecture generator for automotive systems, co
 ## Predictable Code Development for Service-Oriented Applications using GenAI
 
 <p align="center">
-        
-![Hackathon](https://img.shields.io/badge/TELIPORT-Season%203-blue)
-![GenAI](https://img.shields.io/badge/Powered%20By-GenAI-green)
-![SoA](https://img.shields.io/badge/Architecture-Service%20Oriented-orange)
-![Compliance](https://img.shields.io/badge/MISRA-ASPICE-red)
-![Status](https://img.shields.io/badge/Status-Initial%20Setup-yellow)
-
+  <img src="https://img.shields.io/badge/TELIPORT-Season%203-blue" />
+  <img src="https://img.shields.io/badge/Powered%20By-GenAI-green" />
+  <img src="https://img.shields.io/badge/Architecture-Service%20Oriented-orange" />
+  <img src="https://img.shields.io/badge/MISRA-ASPICE-red" />
+  <img src="https://img.shields.io/badge/Status-Initial%20Setup-yellow" />
 </p>
 
 ---

@@ -100,20 +100,21 @@ Vehicle Health Dashboard + KPI Metrics
 
 TATA-ELXSI-HACKATHON/
 │
-├── docs/ # Architecture & Requirement Docs
-├── data/ # Automotive datasets & schemas
-├── genai-engine/ # RAG + Code generation engine
-├── services/ # Generated backend services
-├── hmi/ # Dashboard generator modules
-├── simulation/ # CARLA integration
-├── testing/ # Unit & integration tests
-├── deployment/ # Docker & container configs
-├── dashboard/ # KPI & Health dashboards
-├── scripts/ # Automation scripts
+├── docs/              # Architecture & requirement documentation
+├── data/              # Automotive datasets & schemas
+├── genai-engine/      # RAG + code generation engine
+├── services/          # Generated backend services
+├── hmi/               # HMI dashboard generator modules
+├── simulation/        # CARLA integration
+├── testing/           # Unit & integration tests
+├── deployment/        # Docker & container configurations
+├── dashboard/         # KPI & vehicle health dashboards
+├── scripts/           # Automation scripts
 │
 ├── docker-compose.yml
 ├── .env.example
 └── README.md
+
 
 
 ---
@@ -203,17 +204,18 @@ python genai-engine/main.py
 ---
 
 ## 📌 Roadmap
- RAG engine integration
+ 
+ ✨ RAG engine integration
 
- Multi-language service templates
+ ✨ Multi-language service templates
 
- Compliance rule engine
+ ✨ Compliance rule engine
 
- Dashboard auto-generator
+ ✨ Dashboard auto-generator
 
- Simulation feedback loop
+ ✨ Simulation feedback loop
 
- Final Demo Deployment
+ ✨ Final Demo Deployment
 
 ---
 

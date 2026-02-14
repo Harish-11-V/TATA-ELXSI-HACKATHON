@@ -42,19 +42,19 @@ A **GenAI + RAG powered SoA Code Generator** that:
 ## 🏗️ System Architecture
 
 Requirements Input
-↓
+        ↓
 AI-Powered Refinement
-↓
+        ↓
 GenAI Engine (RAG + Prompt Engineering)
-↓
+        ↓
 Design Generation → Code Generation
-↓
+        ↓
 Compliance Validation (MISRA / ASPICE)
-↓
+        ↓
 Simulation & Testing (CARLA)
-↓
+        ↓
 Containerized Deployment
-↓
+        ↓
 Vehicle Health Dashboard + KPI Metrics
 
 
@@ -196,9 +196,13 @@ python genai-engine/main.py
 ---
 
 ## 🔐 Compliance Strategy
+
 ✔ Automated MISRA Rule Validation
+
 ✔ ASPICE Requirement Mapping
+
 ✔ Simulation-based Validation
+
 ✔ CI/CD Integrated Code Quality Checks
 
 ---

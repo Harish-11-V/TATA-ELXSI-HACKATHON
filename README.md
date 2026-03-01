@@ -3,7 +3,7 @@ GenAI-powered Service-Oriented Architecture generator for automotive systems, co
 
 ---
 
-# 🚀 TATA ELXSI HACKATHON 2026  
+# 🚀 TATA ELXSI HACKATHON 2026
 ## Predictable Code Development for Service-Oriented Applications using GenAI
 
 <p align="center">
